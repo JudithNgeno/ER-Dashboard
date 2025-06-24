@@ -1,5 +1,4 @@
-![Screenshot 2025-06-24 114954](https://github.com/user-attachments/assets/7dab8add-bd9b-490b-b1e0-60312bcb00c0)
-
+![Screenshot 2025-06-24 114954](https://github.com/user-attachments/assets/858356f0-8427-4c5a-b1f0-dcd60aaa7c47)
 # **ER-Dashboard**
 This Excel dashboard provides a comprehensive overview of Emergency Room (ER) performance and patient demographics. It is designed to help healthcare administrators, analysts, and decision-makers monitor key metrics and identify trends for continuous improvement.
 
