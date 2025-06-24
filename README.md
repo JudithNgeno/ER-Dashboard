@@ -1,5 +1,6 @@
 # **ER-Dashboard**
-This Excel dashboard provides a comprehensive overview of Emergency Room (ER) performance and patient demographics. It is designed to help healthcare administrators, analysts, and decision-makers monitor key metrics and identify trends for continuous improvement.
+This Excel dashboard provides a comprehensive overview of Emergency Room (ER) performance and patient demographics. It is designed to help healthcare administrators, analysts, and decision-makers monitor key metrics and identify trends for continuous improvement.  
+
 ![Screenshot 2025-06-24 114954](https://github.com/user-attachments/assets/dbae1e18-2727-4321-816a-378549cd63c8)
 ## **Key Features and KPIs:**   
 **Count of Patients -** Tracks the total number of patients visiting the ER within the selected period, providing a clear view of patient volume.  
